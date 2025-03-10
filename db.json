@@ -18,5 +18,16 @@
       "StatelessWidget нь setState() ашигладаг"
     ],
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+  },
+  {
+    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
+    "options": [
+      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
+      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
+      "StatefulWidget-д төлөв хадгалагддаггүй",
+      "StatelessWidget нь setState() ашигладаг"
+    ],
+    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
   }
+  
 ]
