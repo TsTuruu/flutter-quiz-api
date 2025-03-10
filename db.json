@@ -18,7 +18,7 @@
       "StatelessWidget нь setState() ашигладаг"
     ],
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
-  }
+  },
   {
     "question": "Монгол улс ямар тивд байдаг вэ?",
     "options": [
