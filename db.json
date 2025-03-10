@@ -20,12 +20,12 @@
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
   },
   {
-    "question": "Асуулт 4",
+    "question": "Монгол улс ямар тивд байдаг вэ?",
     "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
+      "Ази",
+      "Америк",
+      "Европ",
+      "Африк"
     ],
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
   }
