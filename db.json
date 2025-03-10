@@ -19,4 +19,12 @@
     ],
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
   }
+  {
+    "question": "Монгол улс ямар тивд байдаг вэ?",
+    "options": [
+      "Ази",
+      "Европ"
+    ],
+    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+  }
 ]
